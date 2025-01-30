@@ -1,5 +1,4 @@
 # pic16bgrid
 . . . 
-X . .
+X O .
 . . X
-
